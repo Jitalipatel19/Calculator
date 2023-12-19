@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="input_here">Input Here</string>
+    <string name="output_here">Output Here</string>
+    <string name="c">C</string>
+    <string name="del">DEL</string>
+    <string name="m">%</string>
+    <string name="d">/</string>
+</resources>
